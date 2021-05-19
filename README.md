@@ -1,6 +1,8 @@
 # Dice
 
 A Flutter app which can be used as a virtual dice.
+<br><br>
+<img src="https://cdn.dribbble.com/users/2122932/screenshots/5672804/dice_gif3.gif">
 
 ## Getting Started
 
